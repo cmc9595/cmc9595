@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhy02904)](https://solved.ac/dhy02904)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dhy02094&layout=compact&theme=buefy"> 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dhy02904)](https://solved.ac/cmc9595)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmc9595&layout=compact&theme=buefy"> 
 
 <!--
 **cmc9595/cmc9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
