@@ -2,9 +2,9 @@
 
 ## I'm interesed in...
 
--💻️ Coding  
--🏋‍♀️️ Working out/Calisthenics  
--🎸️ Music  
+* 💻️ Coding  
+* 🏋‍♀️️ Working out/Calisthenics  
+* 🎸️ Music  
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmc9595)](https://solved.ac/cmc9595)
