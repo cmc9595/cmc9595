@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-### I'm interesed in...
+#### I'm interesed in...
 
-###
+####
 - [x] 💻️ Coding  
 - [x] 🏋‍♀️️ Working out/Calisthenics  
 - [x] 🎸️ Music
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### ✍️ Stacks
+##### ✍️ Stacks
 -------------
 
 
