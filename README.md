@@ -1,11 +1,12 @@
-### Hi there 👋
+# Hi there 👋
 
-#### I'm interesed in...
+## I'm interesed in...
 
-####
-- [x] 💻️ Coding  
-- [x] 🏋‍♀️️ Working out/Calisthenics  
-- [x] 🎸️ Music
+
+### [x] 💻️ Coding  
+### [x] 🏋‍♀️️ Working out/Calisthenics  
+### [x] 🎸️ Music
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmc9595)](https://solved.ac/cmc9595)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmc9595&layout=compact&theme=buefy"/> 
@@ -25,10 +26,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center><h1>📔 Studying</h1></div>
+<div align=center><h2>📔 Studying</h2></div>
 
 <br></br>
-<div align=center><h1>📚️ Stacks</h1></div>
+<div align=center><h2>📚️ Stacks</h2></div>
 <div align=center>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
