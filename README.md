@@ -3,15 +3,13 @@
 ## <center> Hi there 👋</center>
 
  
-### 🌱&nbsp;&nbsp;&nbsp;Junior Backend / AI developer
-### 🎓️&nbsp;&nbsp;&nbsp;Sogang University CSE  
+#### 🌱&nbsp;&nbsp;&nbsp;Junior Backend / AI developer
+#### 🎓️&nbsp;&nbsp;&nbsp;Sogang University CSE  
 <br/>
 
 ### Interested in..
     🐤️ Coding 
-
     🏋‍♀️️ Working out(Calisthenics)
-     
     🎸️ Music
 
 <br/><br/>
