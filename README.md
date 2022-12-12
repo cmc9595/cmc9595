@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME%202023&fontSize=20)
 
-# <center> Hi there 👋</center>
+## <center> Hi there 👋</center>
 
  
 ### 🌱&nbsp;&nbsp;&nbsp;Junior Backend / AI developer
@@ -8,36 +8,16 @@
 <br/>
 
 ### Interested in..
-    🐤️ Coding  
-    🏋‍♀️️ Working out(Calisthenics)  
+    🐤️ Coding 
+
+    🏋‍♀️️ Working out(Calisthenics)
+     
     🎸️ Music
 
 <br/><br/>
 
-# <center>🎴️ Cards</center>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmc9595)](https://solved.ac/cmc9595)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmc9595&layout=compact&theme=buefy"/> 
-<img src="http://mazandi.herokuapp.com/api?handle=cmc9595&theme=warm"/>
-[![cmc9595's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmc9595)](https://github.com/cmc9595/github-readme-stats)
-<!--
-**cmc9595/cmc9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<br/><br/>
-
-# <center>📚️ Stacks</center>
+## <center>📚️ Stacks</center>
+<br/>
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
@@ -61,11 +41,30 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++-Solutions-blue&logoColor=white">
 <!-- <img src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B"/> -->
 </div>
+<br/><br/><br/>
 
-<br/><br/><br/><br/>
 
-##### Visits
+# <center>🎴️ Cards</center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmc9595)](https://solved.ac/cmc9595)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmc9595&layout=compact&theme=buefy"/> 
+<img src="http://mazandi.herokuapp.com/api?handle=cmc9595&theme=warm"/>
+[![cmc9595's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmc9595)](https://github.com/cmc9595/github-readme-stats)
+<!--
+**cmc9595/cmc9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+<br/><br/>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcmc9595&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&text)
