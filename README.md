@@ -1,16 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME%202023&fontSize=20)
 
-## <center> Hi there 👋</center>
+# <center> Hi there 👋</center>
 
  
-#### 🌱&nbsp;&nbsp;&nbsp;Junior Backend / AI developer
-#### 🎓️&nbsp;&nbsp;&nbsp;Sogang University CSE  
+##### 🌱&nbsp;&nbsp;&nbsp;Junior Backend / AI developer
+##### 🎓️&nbsp;&nbsp;&nbsp;Sogang University CSE  
 <br/>
 
-### Interested in..
+#### Interested in..
     🐤️ Coding 
-    🏋‍♀️️ Working out(Calisthenics)
+    🏋‍♀️️ Working out - Calisthenics
     🎸️ Music
+
 
 <br/><br/>
 
