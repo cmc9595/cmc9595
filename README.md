@@ -17,6 +17,7 @@
 <br/><br/>
 
 ## <center>📚️ Stacks</center>
+
 <br/>
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
@@ -43,8 +44,8 @@
 </div>
 <br/><br/><br/>
 
+## <center>🎴️ Cards</center>
 
-# <center>🎴️ Cards</center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmc9595)](https://solved.ac/cmc9595)
 <img src="http://mazandi.herokuapp.com/api?handle=cmc9595&theme=warm"/>
 [![cmc9595's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmc9595&card_width=350&line_height=20)](https://github.com/cmc9595/github-readme-stats)
@@ -67,4 +68,5 @@ Here are some ideas to get you started:
 <br/><br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcmc9595&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=footer&text)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text)
