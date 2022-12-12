@@ -46,9 +46,9 @@
 
 # <center>🎴️ Cards</center>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmc9595)](https://solved.ac/cmc9595)
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmc9595&layout=compact&theme=buefy"/> 
 <img src="http://mazandi.herokuapp.com/api?handle=cmc9595&theme=warm"/>
-[![cmc9595's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmc9595)](https://github.com/cmc9595/github-readme-stats)
+[![cmc9595's GitHub stats](https://github-readme-stats.vercel.app/api?username=cmc9595&card_width=350&line_height=20)](https://github.com/cmc9595/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmc9595&layout=compact&theme=buefy"/> 
 <!--
 **cmc9595/cmc9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
