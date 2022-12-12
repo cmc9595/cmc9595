@@ -2,11 +2,10 @@
 
 #### I'm interesed in...
 
-#### 
+####
 - [x] 💻️ Coding  
 - [x] 🏋‍♀️️ Working out/Calisthenics  
 - [x] 🎸️ Music
-
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cmc9595)](https://solved.ac/cmc9595)
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cmc9595&layout=compact&theme=buefy"/> 
