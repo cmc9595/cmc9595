@@ -1,23 +1,35 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME%202023&fontSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=WELCOME%202023&fontSize=30)
 
 # <center> Hi there 👋</center>
 
  
-##### 🌱&nbsp;&nbsp;&nbsp;Junior Backend / AI developer
-##### 🎓️&nbsp;&nbsp;&nbsp;Sogang University CSE  
-<br/>
+🌱&nbsp;&nbsp;&nbsp; I'm a junior Backend / AI developer currently working at KT
 
-#### Interested in..
+🎓️&nbsp;&nbsp;&nbsp; Graduated from Sogang University CSE  
+
+😂&nbsp;&nbsp;&nbsp; What I'm interested in..  
+```
+    🧠 Cutting-edge deeplearning based models 
+
+    🕯️ Building APIs with major backend frameworks  
+
+    💡 Algorithm ps
+```
+
+
+🍄&nbsp;&nbsp;&nbsp; I'm also big fan of..  
+```
     🐤️ Coding 
-    🏋‍♀️️ Working out - Calisthenics
+
+    🏋‍♀️️ Working out / Calisthenics
+
     🎸️ Music
+```
 
 
 <br/><br/>
 
 ## <center>📚️ Stacks</center>
-
-<br/>
 <div align=center>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>
