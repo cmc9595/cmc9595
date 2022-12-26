@@ -5,7 +5,7 @@
  
 🌱&nbsp;&nbsp;&nbsp; I'm a junior Backend / AI developer
 
-🎓️&nbsp;&nbsp;&nbsp; Graduated from Sogang University CSE
+🎓️&nbsp;&nbsp;&nbsp; Sogang Univ. CSE
 
 😂&nbsp;&nbsp;&nbsp; I'm interested in..  
 ```
