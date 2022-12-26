@@ -17,7 +17,7 @@
 ```
 
 
-🍄&nbsp;&nbsp;&nbsp; I'm also big fan of..  
+🍄&nbsp;&nbsp;&nbsp; I'm also a big fan of..  
 ```
     🐤️ Coding 
 
