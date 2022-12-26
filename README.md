@@ -3,17 +3,17 @@
 # <center> Hi there 👋</center>
 
  
-🌱&nbsp;&nbsp;&nbsp; I'm a junior Backend / AI developer currently working at KT
+🌱&nbsp;&nbsp;&nbsp; I'm a junior Backend / AI developer
 
-🎓️&nbsp;&nbsp;&nbsp; Graduated from Sogang University CSE  
+🎓️&nbsp;&nbsp;&nbsp; Graduated from Sogang University CSE
 
-😂&nbsp;&nbsp;&nbsp; What I'm interested in..  
+😂&nbsp;&nbsp;&nbsp; I'm interested in..  
 ```
     🧠 Cutting-edge deeplearning based models 
 
     🕯️ Building APIs with major backend frameworks  
 
-    💡 Algorithm ps
+    💡 Algorithm PS
 ```
 
 
