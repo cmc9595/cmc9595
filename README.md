@@ -3,9 +3,9 @@
 # <center> Hi there 👋</center>
 
  
-🌱&nbsp;&nbsp;&nbsp; I'm a junior Backend / AI developer
+🌱&nbsp;&nbsp;&nbsp; Junior Backend / AI developer
 
-🎓️&nbsp;&nbsp;&nbsp; Sogang Univ. CSE
+🎓️&nbsp;&nbsp;&nbsp; Computer Sciece & Engineering major @ SGU
 
 😂&nbsp;&nbsp;&nbsp; I'm interested in..  
 ```
