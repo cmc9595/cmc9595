@@ -9,7 +9,7 @@
 
 😂&nbsp;&nbsp;&nbsp; I'm interested in..  
 ```
-    🧠 Cutting-edge deeplearning based models 
+    🧠 Cutting-edge deeplearning based models i.e. Stable diffusion, ViT
 
     🕯️ Building APIs with major backend frameworks  
 
