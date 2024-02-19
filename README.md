@@ -11,7 +11,7 @@
 ```
     🧠 Deeplearning: Object Detection, NLP, Generative models, Transformer
 
-    🕯️ I'm learning Frontend programming: React, Tailwind
+    🕯️ I'm learning Web Frontend coding: React, Tailwind
 
     💡 Algorithm problem solving
 ```
