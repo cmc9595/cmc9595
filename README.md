@@ -3,7 +3,7 @@
 ### <center> Hi there 👋</center>
 
  
-🌱&nbsp;&nbsp;&nbsp; (Junior) Fullstack Web / AI model serving developer
+🌱&nbsp;&nbsp;&nbsp; (Junior) Fullstack Web / AI developer
 
 🎓️&nbsp;&nbsp;&nbsp; Computer Sciece & Engineering major @ SGU
 
