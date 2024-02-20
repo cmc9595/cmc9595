@@ -9,7 +9,7 @@
 
 😂&nbsp;&nbsp;&nbsp; I'm interested in..  
 ```
-    🧠 Deeplearning: Object Detection, NLP, Generative models, Transformer
+    🧠 Deeplearning: Object Detection, NLP, LLM, Generative models, Transformer
 
     🕯️ I'm learning Web Frontend coding: React, Tailwind
 
