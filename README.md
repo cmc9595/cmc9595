@@ -9,11 +9,10 @@
 
 😂&nbsp;&nbsp;&nbsp; I'm interested in..  
 ```
-    🧠 Deeplearning: Object Detection, NLP, LLM, Generative models, Transformer
+    🧠 Deeplearning: LLMs, Generative models, Transformers
 
-    🕯️ I'm learning Web Frontend coding: React, Tailwind
+    🕯️ CI/CD: Kubernetes, MLOps
 
-    💡 Algorithm problem solving
 ```
 
 
