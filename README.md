@@ -3,15 +3,15 @@
 ### <center> Hi there 👋</center>
 
  
-🌱&nbsp;&nbsp;&nbsp; (Junior) Fullstack Web / AI developer
+🌱&nbsp;&nbsp;&nbsp; Web fullstack / AI model serving Developer
 
-🎓️&nbsp;&nbsp;&nbsp; Computer Sciece & Engineering major @ SGU
+🎓️&nbsp;&nbsp;&nbsp; CSE major @SGU
 
 😂&nbsp;&nbsp;&nbsp; I'm interested in..  
 ```
-    🧠 Deeplearning: LLMs, Generative models, Transformers
+    🧠 State-of-the-art Deeplearning Models
 
-    🕯️ CI/CD: Kubernetes, MLOps
+    🕯️ CI/CD Automation i.e. K8S, MLOps
 
 ```
 
@@ -29,25 +29,28 @@
 <br/><br/>
 
 ### ⚙️&nbsp; Things I code with
-#### ✔️Frond-end
+#### ✔️F/E
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white"/>
 
-#### ✔️Back-end
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+#### ✔️B/E
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/> 
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 
 
-#### ✔️Database
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+#### ✔️DB / ObjectStorage
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=MinIO&logoColor=white"/>
 
 
-#### ✔️Object Storage
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=MinIO&logoColor=white"/>
-
-#### ✔️Data Science
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
-
-#### ✔️CI/CD
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+#### ✔️ELSE
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 
 
 <br/><br/>
