@@ -3,7 +3,7 @@
 ### <center> Hi there 👋</center>
 
  
-🌱&nbsp;&nbsp;&nbsp; Web fullstack / AI model serving Developer
+🌱&nbsp;&nbsp;&nbsp; Web/AI Engineer
 
 🎓️&nbsp;&nbsp;&nbsp; CSE major @SGU
 
@@ -36,11 +36,11 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=white"/><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
 
 
-#### ✔️DB / ObjectStorage
+#### ✔️DataBase
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/><img src="https://img.shields.io/badge/MinIO-C72E49?style=flat&logo=MinIO&logoColor=white"/>
 
 
-#### ✔️ELSE
+#### ✔️Serverside
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/><img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"/>
 
 
