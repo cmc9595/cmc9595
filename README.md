@@ -2,9 +2,9 @@
 
 ### <center> Hi there 👋</center>
 
-🌱&nbsp;&nbsp;&nbsp; Web/AI Engineer
-🎓️&nbsp;&nbsp;&nbsp; CSE major @SGU
-😂&nbsp;&nbsp;&nbsp; I'm interested in..  
+🌱&nbsp;&nbsp;&nbsp; Web/AI Engineer  
+🎓️&nbsp;&nbsp;&nbsp; CSE major @SGU  
+😂&nbsp;&nbsp;&nbsp; I'm interested in..    
 ```
     🧠 State-of-the-art Deeplearning Models
     🕯️ CI/CD Automation i.e. Jenkins, ArgoCD, Github Action
@@ -17,7 +17,6 @@
     🏋‍♀️️ Working out, Calisthenics, Rock Climbing
     🎸️ Electric Guitar
 ```
-
 
 <br/><br/>
 
