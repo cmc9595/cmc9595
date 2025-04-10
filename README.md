@@ -2,27 +2,20 @@
 
 ### <center> Hi there 👋</center>
 
- 
 🌱&nbsp;&nbsp;&nbsp; Web/AI Engineer
-
 🎓️&nbsp;&nbsp;&nbsp; CSE major @SGU
-
 😂&nbsp;&nbsp;&nbsp; I'm interested in..  
 ```
     🧠 State-of-the-art Deeplearning Models
-
-    🕯️ CI/CD Automation i.e. K8S, MLOps
+    🕯️ CI/CD Automation i.e. Jenkins, ArgoCD, Github Action
+       Container Orchestration i.e. k8s
 
 ```
-
-
 🍄&nbsp;&nbsp;&nbsp; I'm also a big fan of..  
 ```
-    🐤️ Coding 
-
-    🏋‍♀️️ Working out / Calisthenics
-
-    🎸️ Music
+    🐤️ Algorithm problem solving  feat.LeetCode
+    🏋‍♀️️ Working out, Calisthenics, Rock Climbing
+    🎸️ Electric Guitar
 ```
 
 
