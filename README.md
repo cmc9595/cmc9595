@@ -6,7 +6,7 @@
 🎓️&nbsp;&nbsp;&nbsp; CSE major @SGU  
 😂&nbsp;&nbsp;&nbsp; I'm interested in..    
 ```
-    🧠 State-of-the-art Deeplearning Models
+    🧠 LLM, Agent, RAG, Reasoning Model, CoT, Reinforcement Learing
     🕯️ CI/CD Automation i.e. Jenkins, ArgoCD, Github Action
        Container Orchestration i.e. k8s
 
