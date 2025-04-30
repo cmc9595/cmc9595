@@ -13,7 +13,7 @@
 ```
 🍄&nbsp;&nbsp;&nbsp; I'm also a big fan of..  
 ```
-    🐤️ Algorithm problem solving  feat.LeetCode
+    🐤️ Algorithm problem solving
     🏋‍♀️️ Working out, Calisthenics, Rock Climbing
     🎸️ Electric Guitar
 ```
